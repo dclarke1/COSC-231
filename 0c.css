@@ -1,0 +1,23 @@
+body {
+	background: lightblue;
+}
+
+h3 {
+	color: gray;
+}
+
+tr:nth-child(even) {
+	background: skyblue;
+	text-align:center;
+}
+
+tr:nth-child(odd) {
+	background: aliceblue;
+	text-align:center;
+}
+
+p {
+	border-style: solid;
+	width: 600px;
+	font-family: georgia;
+}
