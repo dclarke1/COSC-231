@@ -1,0 +1,172 @@
+<!DOCTYPE html>
+  <head>
+    <title>
+      Daniel Clarke
+    </title>
+  </head>
+  <body>
+    <p>
+      My name is <strong>Daniel Clarke</strong>, but most people call me Danny.
+      I have orange hair, which is confusing to many people for reason I have yet to understand.
+      But beyond that, I am your average <strong>twenty-one</strong> year old.
+      I am a <strong>Computer Science</strong> major, because I enjoy the computers and the sciences.
+      I love them to the extend of paying lots of money so I can get a job one day :)
+    </p>
+    <h3>
+      My Class Schedule:
+    </h3>
+    <table>
+    	<thead>
+    		<tr>
+    			<th>
+    				Class Name
+    			</th>
+    			<th>
+    				Course Number
+    			</th>
+    			<th>
+    				Days to Meet
+    			</th>
+    			<th>
+    				Time Start
+    			</th>
+    			<th>
+    				Time Finish
+    			</th>
+    			<th>
+    				Teacher Name
+    			</th>
+    			<th>
+    				Room Number
+    			</th>
+    		<tr>
+    	</thead>
+    	<tr>
+    		<td>
+    			Programming Data Structures
+    		</td>
+    		<td>
+    			<a href="https://canvas.emich.edu/courses/20555">COSC 211</a>
+    		</td>
+    		<td>
+    			M W
+    		</td>
+    		<td>
+    			12:00pm
+    		</td>
+    		<td>
+    			1:50pm
+    		</td>
+    		<td>
+    			Dr. Poe
+    		</td>
+    		<td>
+    			PRAY-H 520
+    		</td>
+    	</tr>
+    	<tr>
+    		<td>
+    			Programming Data Structures Lab
+    		</td>
+    		<td>
+    			<a href="https://canvas.emich.edu/courses/22005">COSC 212</a>
+    		</td>
+    		<td>
+    			Online
+    		</td>
+    		<td>
+    			n/a
+    		</td>
+    		<td>
+    			n/a
+    		</td>
+    		<td>
+    			Dr. Ikeji
+    		</td>
+    		<td>
+    			n/a
+    		</td>
+    	</tr>
+    	<tr>
+    		<td>
+    			Computer Organization I
+    		</td>
+    		<td>
+    			<a href="https://canvas.emich.edu/courses/21973">COSC 221</a>
+    		</td>
+    		<td>
+    			M W
+    		</td>
+    		<td>
+    			10:00am
+    		</td>
+    		<td>
+    			11:50am
+    		</td>
+    		<td>
+    			K. Mansour
+    		</td>
+    		<td>
+    			PRAY-H 520
+    		</td>
+    	</tr>
+    	<tr>
+    		<td>
+    			Internet-Based Computing
+    		</td>
+    		<td>
+    			COSC 231
+    		</td>
+    		<td>
+    			M W
+    		</td>
+    		<td>
+    			7:20pm
+    		</td>
+    		<td>
+    			8:35pm
+    		</td>
+    		<td>
+    			E. Gurnee
+    		</td>
+    		<td>
+    			PRAY-H 520
+    		</td>
+    	</tr><tr>
+    		<td>
+    			Mathematical Structures for Computer Science
+    		</td>
+    		<td>
+    			<a href="https://canvas.emich.edu/courses/20182">MATH 205</a>
+    		</td>
+    		<td>
+    			M W
+    		</td>
+    		<td>
+    			5:30pm
+    		</td>
+    		<td>
+    			7:10pm
+    		</td>
+    		<td>
+    			J. Curran
+    		</td>
+    		<td>
+    			PRAY-H 520
+    		</td>
+    	</tr>
+    </table>
+    <h3>
+      Top Marvel Villians:
+    </h3>
+    <ol>
+      <li>Magneto</li>
+      <li>Venom</li>
+      <li>Thanos</li>
+      <li>Ultron</li>
+    </ol>
+    <img src="http://people.emich.edu/dclarke1/New/Row%20Selfie.jpg" width="300px" height="200"/>
+    <p>
+      <a href="http://people.emich.edu/dclarke1/231/"></a>
+    </p>
+  </body>
