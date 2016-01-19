@@ -4,3 +4,35 @@
       Daniel Clarke
     </title>
   </head>
+  <body>
+    <p>
+      My name is <strong>Daniel Clarke</strong>, but most people call me Danny.
+      I have orange hair, which is confusing to many people for reason I have yet to understand.
+      But beyond that, I am your average <strong>twenty-one</strong> year old.
+      I am a <strong>Computer Science</strong> major, because I enjoy the computers and the sciences.
+      I love them to the extend of paying lots of money so I can get a job one day :)
+    </p>
+    <h3>
+      My Class Schedule:
+    </h3>
+    <ul>
+      <li><a href="https://canvas.emich.edu/courses/20555">COSC 211</a></li>
+      <li><a href="https://canvas.emich.edu/courses/22005">COSC 212</a></li>
+      <li><a href="https://canvas.emich.edu/courses/21973">COSC 221</a></li>
+      <li><a href="">COSC 231</a></li>
+      <li><a href="https://canvas.emich.edu/courses/20182">MATH 205</a></li>
+    </ul>
+    <h3>
+      Top Marvel Villians:
+    </h3>
+    <ol>
+      <li>Magneto</li>
+      <li>Venom</li>
+      <li>Thanos</li>
+      <li>Thanos</li>
+    </ol>
+    <img src="Row Selfie.jpg" width="300px" height="200"/>
+    <p>
+      <a href="http://people.emich.edu/dclarke1/231/"></a>
+    </p>
+  </body>
